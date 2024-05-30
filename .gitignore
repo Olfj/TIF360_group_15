@@ -2,3 +2,4 @@ __pycache__/
 \data
 \papers
 \trained_models
+\lightning_logs
